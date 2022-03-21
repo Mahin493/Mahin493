@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,React,Deep Learning.**
 
-- 👯 I’m looking to collaborate on **Open Source Community**
+- 👯 I’m looking to collaborate on **Open Source Community More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
