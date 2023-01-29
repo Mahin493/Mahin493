@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋,I'm Mahin</h1>
-<h3 align="center">A student from AUST CSE ,Web Engineer and Passionate about Machine learning.</h3>
+<h3 align="center">A student from AUST CSE.Passionate about Web Development and Machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahin493&label=Profile%20views&color=0e75b6&style=flat" alt="mahin493" /> </p>
 
