@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning,Deep Learning,React**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Javascript**
 
 - 👯 I’m looking to collaborate on **Open Source Community**
 
